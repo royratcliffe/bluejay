@@ -155,7 +155,7 @@
 			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
 		</cconfiguration>
 	</storageModule>
-	<storageModule moduleId="com.silabs.ss.framework.ide.project.core.cpp" project.generation="4" projectCommon.boardIds="com.silabs.board.none:0.0.0" projectCommon.buildArtifactType="EXE" projectCommon.copiedFiles="[{&quot;generated&quot;:false,&quot;projectPath&quot;:&quot;src/bluejay_main.c&quot;,&quot;originalPath&quot;:&quot;C:\\Users\\royra\\AppData\\Local\\Temp\\expandedFile2542303351023331958&quot;,&quot;version&quot;:1,&quot;content&quot;:-1476885307}]" projectCommon.importModeId="LINK_LIBRARIES" projectCommon.partId="mcu.8051.efm8.bb2.efm8bb21f16g-c-qfn20" projectCommon.sdkId="com.silabs.sdk.8051:4.3.0.0_-1219908783"/>
+	<storageModule moduleId="com.silabs.ss.framework.ide.project.core.cpp" project.generation="1" projectCommon.boardIds="com.silabs.board.none:0.0.0" projectCommon.buildArtifactType="EXE" projectCommon.copiedFiles="[{&quot;generated&quot;:false,&quot;projectPath&quot;:&quot;src/bluejay_main.c&quot;,&quot;originalPath&quot;:&quot;C:\\Users\\royra\\AppData\\Local\\Temp\\expandedFile2542303351023331958&quot;,&quot;version&quot;:1,&quot;content&quot;:-1476885307}]" projectCommon.importModeId="LINK_LIBRARIES" projectCommon.partId="mcu.8051.efm8.bb2.efm8bb21f16g-c-qfn20" projectCommon.sdkId="com.silabs.sdk.8051:4.3.0.0_-1219908783"/>
 	<storageModule moduleId="cdtBuildSystem" version="4.0.0">
 		<project id="bluejay.com.silabs.ss.framework.ide.project.core.cdt.cdtMbsProjectType.1735295001" name="SLS CDT Project" projectType="com.silabs.ss.framework.ide.project.core.cdt.cdtMbsProjectType"/>
 	</storageModule>
