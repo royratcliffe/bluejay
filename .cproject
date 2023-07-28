@@ -134,6 +134,7 @@
 									<listOptionValue builtIn="false" value="DEADTIME=5"/>
 									<listOptionValue builtIn="false" value="PWM_FREQ=0"/>
 								</option>
+								<option id="com.silabs.ide.si8051.keil.assembler.category.misc.extraflags.1969966784" superClass="com.silabs.ide.si8051.keil.assembler.category.misc.extraflags" useByScannerDiscovery="false" value="REGISTERBANK(0,1,2)" valueType="string"/>
 								<inputType id="com.silabs.ide.si8051.keil.assembler.inputType.1318497411" superClass="com.silabs.ide.si8051.keil.assembler.inputType"/>
 							</tool>
 							<tool command="LX51" id="com.silabs.ide.si8051.keil.toolchain.linker.404575218" name="Keil 8051 Linker" superClass="com.silabs.ide.si8051.keil.toolchain.linker">
